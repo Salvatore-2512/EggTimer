@@ -28,8 +28,9 @@ Using the Egg Timer app is straightforward:
 
 ### Preview
 <img src="https://github.com/user-attachments/assets/8d017ab6-7d6e-4d72-a5c7-0674925b39ad" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/6c8d7cc6-a0ba-4350-8c3c-af7f6777cd92" width="200" height="400" />
 <img src="https://github.com/user-attachments/assets/9bc58a34-a99b-4472-a848-9eb317e76103" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/6c8d7cc6-a0ba-4350-8c3c-af7f6777cd92" width="200" height="400" />
+
 
 
 ### Contact
